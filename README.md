@@ -1,7 +1,7 @@
-# smartag_datacollection
+# Bramblebee_Workspace
   **WIP**
   
-  Collect farm and plant data using a Clearpath Robotics Husky base from various farms in and around West Virginia.
+  Everything needed to get setup and running with the current Bramblebee robot.
   Tested on Melodic
   Noetic WIP
   
