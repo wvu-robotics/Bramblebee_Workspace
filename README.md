@@ -7,7 +7,7 @@
   
   Noetic WIP
   
-  ![alt text](https://github.com/wvu-robotics/Bramblebee_Workspace/blob/main/imgs/WVU_Organic_Farm_GPSViz.png?raw=true)
+  ![alt text](imgs/WVU_Organic_Farm_GPSViz.png)
   ![alt test](imgs/BRAMBLEBEE3.JPG)
   
 ## Required Hardware
